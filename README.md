@@ -101,12 +101,13 @@ This is a collection of all the resources for the courses that me and my friends
   - **Time:** 8:30 AM - 9:25 AM, 9:30 AM - 10:25 AM, 11:35 AM - 12:30 PM
 
 - **Tutorial**
-  - **Day:** Tuesday
-  - **Time:** 2:00 PM - 5:00 PM
+  - **Day:** Wednesday
+  - **Time:** 5:30 PM - 6:25 PM
+  - **Venue:** LT101/LT102/LT103/LT104/LT105/LT106/LT001/LT002
  
 **Instructor:**
-  - Prof. Sayandeep Saha
-  - Prof. Bhaskaran Raman
+  - Prof. Rekha Santhanam
+  - Prof. Santanu Dey
 
 ### MS101 - Makerspace
 
