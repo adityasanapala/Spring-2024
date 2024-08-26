@@ -6,7 +6,7 @@
 
 - LH (Lectures)
 
-- LT (Tutorials)
+- LT101/LT102/LT103 (Tutorials)
 
 - SL1/SL2/SL3 (Labs)
 
