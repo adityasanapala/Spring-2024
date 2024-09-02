@@ -120,8 +120,8 @@ This is a collection of all the resources for the courses that me and my friends
   - **Time:** 3:30 PM - 4:55 PM
  
 **Instructor:**
-  - Prof. Subrato Banerjee
-  - Prof. Neha Gupta
+  - Prof. Siddini Venkata Prabhu
+  - Prof. Kushal Rajani
 
 ## Backup Link for the Content
 
