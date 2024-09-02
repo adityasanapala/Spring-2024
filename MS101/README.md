@@ -4,9 +4,18 @@
 
 ## Grading
 
-### Electrical
+### Electrical - 30%
 
-### Mechanical
+- **Quizzes:** 10% (2 quizzes)
+- **Labs:** 10% (5 Labs)
+- **Midsem:** 10%
+
+### Mechanical - 30%
+
+- **Lab Quizzes:** 20%
+- **Midsem:** 10%
+
+### Project -  40%
 
 ## Exam Schedule
 
