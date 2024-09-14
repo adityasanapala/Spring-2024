@@ -2,21 +2,6 @@
 
 This is a collection of all the resources for the courses that me and my friends studied in our second semester of the first year, i.e., the Spring Semester of 2024.
 
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
-
-> [!TIP]
-> Optional information to help a user be more successful.
-
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
-
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
-
-> [!CAUTION]
-> Negative potential consequences of an action.
-
 ## Timetable
 
 > [!NOTE]  
@@ -46,9 +31,10 @@ This is a collection of all the resources for the courses that me and my friends
   - **Days:** Wednesday, Friday
   - **Time:** 11:05 AM - 12:30 PM
 
-- **Slot 3C** (Tutorial)
+- **Tutorial**
   - **Day:** Thursday
   - **Time:** 8:30 AM - 9:25 AM
+  - **Venue:** LT001/LT002/LT003
  
 **Instructor:**
   - Prof. Sanjeeva Srivastava
@@ -78,7 +64,7 @@ This is a collection of all the resources for the courses that me and my friends
   - **Days:** Wednesday, Friday
   - **Time:** 9:30 AM - 10:55 AM
 
-- **Slot 2B** (Tutorial)
+- **Tutorial**
   - **Day:** Tuesday
   - **Time:** 10:35 AM - 11:30 AM
   - **Venue:** LT201/LT202/LT203
@@ -116,8 +102,8 @@ This is a collection of all the resources for the courses that me and my friends
 **Schedule:**
 
 - **Slot 9**
-  - **Days:** Monday, Thursday
-  - **Time:** 3:30 PM - 4:55 PM
+  - **Days:** 
+  - **Time:** 
  
 **Instructor:**
   - Prof. Siddini Venkatesh Prabhu
