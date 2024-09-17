@@ -67,7 +67,7 @@ This is a collection of all the resources for the courses that me and my friends
 - **Tutorial**
   - **Day:** Tuesday
   - **Time:** 10:35 AM - 11:30 AM
-  - **Venue:** LT201/LT202/LT203
+  - **Venue:** LT101/LT102/LT103
 
 - **Slot LX** (Lab)
   - **Day:** Wednesday
