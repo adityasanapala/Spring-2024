@@ -1,7 +1,5 @@
 # MA110 - Linear Algebra and Differential Equations
 
-## Logistics
-
 ## Grading
 
 - **Quizzes:** 20% (2 × 10%)
