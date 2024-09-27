@@ -1,26 +1,5 @@
 # CS108 - Software Systems Lab
 
-## Logistics
-
-### Venue
-
-- LH (Lectures)
-
-- LT101/LT102/LT103 (Tutorials)
-
-- SL1/SL2/SL3 (Labs)
-
-### Instructor
-
-Prof. Kameswari Chebrolu
-
-### Teaching Assistants
-
-- Guramrit Singh
-- Sabyasachi Samantarey
-- Kavya Gupta
-- Saksham Rathi
-
 ## Grading
 
 - **SAFE Quiz:** 20% (2 quizzes)
