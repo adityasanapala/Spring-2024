@@ -1,7 +1,5 @@
 # MS101 - Makerspace
 
-## Logistics
-
 ## Grading
 
 ### Electrical - 30%
