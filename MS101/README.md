@@ -19,6 +19,8 @@
 
 ### Electrical
 
+- **Quiz 2:** Friday, 22 March 2024
+
 ### Mechanical
 
 ## Course Website (if any)
