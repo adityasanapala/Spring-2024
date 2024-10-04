@@ -9,9 +9,9 @@
 
 ## Exam Schedule
 
-- **SAFE Quiz 1:**
+- **SAFE Quiz 1:** Friday, 16 February 2024
 - **Lab Quiz 1:**
-- **SAFE Quiz 2:**
+- **SAFE Quiz 2:** Wednesday, 10 April 2024
 - **Lab Quiz 2:**
 - **Project Statement Announcement:**
 - **Project Submission Deadline:**
