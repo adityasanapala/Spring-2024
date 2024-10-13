@@ -19,6 +19,7 @@
 
 ### Electrical
 
+- **Quiz 1:** Wednesday, 31 January 2024
 - **Quiz 2:** Friday, 22 March 2024
 
 ### Mechanical
